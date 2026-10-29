@@ -1,0 +1,3 @@
+# MVP requires NO Python packages — standard library + ffmpeg only.
+# The line below is for the V2 roadmap (transcription & tagging) only:
+# faster-whisper>=1.0

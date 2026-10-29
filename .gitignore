@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+clip_finder_output/
+catalog.db
+*.mkv
+*.mp4
+!examples/*.md
